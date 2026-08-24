@@ -1,3 +1,3 @@
 #### 遍历所有种子组，保存种子组信息，筛选 pipimg 封面进行替换
 #### 运行脚本需要按实际修改第 38、41、44、65、90、95-97、1143、1178行
-#### python 版本需要大于等于 3.10，运行前先在新建 log 文件夹，并在脚本目录执行 python install -r requirements.txt 安装依赖
+#### python 版本需要大于等于 3.10，运行前先新建 log 文件夹，并在脚本目录执行 python install -r requirements.txt 安装依赖
