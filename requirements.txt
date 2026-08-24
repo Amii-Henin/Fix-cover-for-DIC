@@ -1,0 +1,10 @@
+regex
+opencc
+requests
+deezer-python
+discogs-client
+pillow
+bs4
+fuzzywuzzy
+musicbrainzngs
+python-Levenshtein
